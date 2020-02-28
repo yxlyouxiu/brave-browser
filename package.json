@@ -41,7 +41,7 @@
       },
       "brave-core": {
         "dir": "src/brave",
-        "branch": "master",
+        "branch": "sync-v2-81.0.4044.113",
         "repository": {
           "url": "https://github.com/brave/brave-core.git"
         }
